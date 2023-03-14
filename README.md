@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![Metrics](https://metrics.lecoq.io/kishank11?template=classic&activity=1&pagespeed=1&activity.limit=5&activity.days=14&activity.filter=all&pagespeed.url=kishank11.github.io&pagespeed.detailed=true&pagespeed.screenshot=true&config.timezone=Asia%2FCalcutta&config.animated=true)
+![Metrics](https://metrics.lecoq.io/kishank11?template=classic&activity=1&pagespeed=1&activity.limit=5&activity.days=14&activity.filter=all&pagespeed.url=kishank11.github.io)
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishankanojia11)
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=kishankanojia11@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/kishankanojia11)
@@ -13,7 +13,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on various products for clients
-- 💬 Ask me about software development/data science
+- 💬 Ask me about software development/Blockchain
 
 ![Harsh's github 
 stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kishank11&show_icons=true&count_private=true&theme=radical)
